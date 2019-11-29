@@ -1,0 +1,13 @@
+.links{
+border: 1px soild lightgrey;
+padding: 30px 0px;
+position: relative;
+text-align: center;
+width: 100%;
+}
+
+.share a {
+background: black;
+border: 1px solid black;
+border-radius: 3px;
+color: white;
